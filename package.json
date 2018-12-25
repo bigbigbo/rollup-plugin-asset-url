@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-asset-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fork from rollup-plugin-url and modify something",
   "main": "dist/lib/index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "rollup-plugin",
     "static assets"
   ],
-  "author": "bigbigbo <89331716@qq.com>",
+  "author": "bigbigbo <zxb141242@163.com>",
+  "repository": "https://github.com/bigbigbo/rollup-plugin-asset-url",
   "files": [
     "dist",
     "src",
